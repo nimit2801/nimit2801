@@ -5,6 +5,7 @@
 - I'm a Computer Science Engineer
 - I like to write magical code that breaks!
 - You'll find me on Discord **Nimit #4979**
+- I love to work with communities :D
 
 <br/>
 
