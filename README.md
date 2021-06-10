@@ -13,6 +13,7 @@
 - Backend Developer _NodeJS, Express, MongoDB_
 - Game Developement _Unity3d, Pygames_
 - Competitive Coding _C++14_
+- Discord Bot Developer (Discord.js)
 
 <br/>
 
