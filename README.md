@@ -1,6 +1,6 @@
 ### Hi I'm Nimit Savant 👋
 
-#### A litle about me
+#### A little about me
 
 - I'm a Computer Science Engineer
 - I like to write magical code that breaks!
