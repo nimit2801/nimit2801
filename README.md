@@ -4,16 +4,18 @@
 
 #### A little about me
 
-- I'm a Computer Science Engineer
-- I like to write magical code that breaks!
+- I'm a Computer Science Engineer, who loves to code in Backend
+- I like to write magical code that solves and makes more sense!
 - You'll find me on Discord **Nimit #4979**
-- I love to work with communities :D
+- I love to work with communities so ping me to host any online/offline events
 
 <br/>
 
 #### Technical Insights
 
-- Backend Developer _NodeJS, Express, MongoDB_
+- Backend Developer _NodeJS, Express, MongoDB, GoLang_
+- Currently working on: _AWS DynamoDB, AWS Lamda, AWS SAM, AWS API GATEWAY_
+- Currently learning: _Anime.js and NextJs_
 - Game Developement _Unity3d, Pygames_
 - Competitive Coding _C++14_
 - Discord Bot Developer (Discord.js)
