@@ -6,7 +6,8 @@
 
 - I'm a Computer Science Engineer, who loves to code in Backend
 - I like to write magical code that solves and makes more sense!
-- You'll find me on Discord **Nimit #4979**
+- You'll find me on Discord **nimit2801**
+- Personal Website: https://nimitsavant.me
 - I love to work with communities so ping me to host any online/offline events
 
 <br/>
