@@ -11,6 +11,9 @@
 - I love to work with communities so ping me to host any online/offline events
 
 <br/>
+<a href="https://app.daily.dev/nimitsavant"><img src="https://api.daily.dev/devcards/v2/Gle5iT2CJe98ASsIWaLRQ.png?type=wide&r=8e5" width="652" alt="Nimit Savant's Dev Card"/></a>
+<br/>
+<br/>
 
 #### Technical Insights
 
